@@ -1,0 +1,16 @@
+.card-deck {
+    width: 100%;
+}
+
+.card-body {
+    min-width: calc(25% - 60px);
+}
+
+#mensaje {
+    margin: 100px;
+    margin-bottom: 300px
+}
+
+.content > p {
+    margin-bottom: 0;
+}
